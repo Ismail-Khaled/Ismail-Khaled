@@ -65,8 +65,6 @@ A 13-course professional program covering Machine Learning, Deep Learning, Gener
 
 ## Projects
 
-- [Machine Learning Projects with Python](https://github.com/Ismail-Khaled/ML-Projects-Python)
-
 More projects will be added as I progress through the IBM AI Engineering Professional Certificate.
 
 ## Connect With Me
